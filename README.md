@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Varshini
 - 👀 I’m actively learning use of LLM and custom fine tuning, Mobile Application Development
 - 🌱 I’m a Data Scientist, with research interest focussed in NLP
-- 💞️ I’m looking to collaborate on Language Parser, Recommendation Systems, finetuning custom LLMs
+- 💞️ I’m looking to collaborate on Language Parsers, Recommendation Systems, Use of AI technologies in increasing Trust and Credibility
 - 📫 How to reach me - jarvisversion100@gmail.com
 
 <!---
