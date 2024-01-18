@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varshini
 - I am passionate about Personalized Learning solutions, that redefine how we learn and process information.
-- Check out our active initiative on building Personalized Learning Solutions - [Untamed](https://untamed-alpha.vercel.app/)
+- Check out our active initiative on building Personalized Learning Solutions - [Untamed](http://untamed.creativethee.com/)
 - 👀 I’m actively studing and developing tools to filter truth from the chaotic stream of information.
 - 🌱 I’m a Data Scientist and ML Researcher with 2 years of professional experience
 - 💞️ My research interests include - combating Social Misinformation, Crisis Causality, Intersection of Data, Social Science and Public policy.
