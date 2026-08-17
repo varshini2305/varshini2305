@@ -1,4 +1,27 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Varshini and I'm a Data Scientist and Applied AI Engineer, recently graduated from UMass Amherst with my Masters in Computer Science. I'm actively building Coo: okcoo.app, the context manager to run your house operations. </h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Varshini and I'm a Data Scientist and Applied AI Engineer </h2>
+<h2 align="left">Hi 👋! I'm Varshini — a Data Scientist and Applied AI Engineer</h2>
+<h4>Recent MS in Computer Science graduate from UMass Amherst. Currently building <a href="https://okcoo.app">Coo</a>, the context manager to run your house operations.</h4>
+
+What I’ve worked on
+
+* LLM Research: Improved LLaMA-2-13B truthfulness to 87.1% on SycophancyEval by localizing sycophancy-related behavior through path patching and applying supervised pinpoint tuning to targeted model components.
+* AI Research @ Allen Institute for AI: Built literature-retrieval and agentic research workflows using query expansion, hybrid reranking, context engineering, and Search-R1, moving LLM priors closer to empirical posteriors in 66% of trials.
+* Cloud & Data Engineering: Led data-pipeline and cloud-infrastructure optimization during an AWS-to-GCP migration, reducing end-to-end pipeline latency by 30%, while building SQL, BigQuery, and FastAPI monitoring workflows that contributed to 20% higher user engagement.
+* Production ML: Developed ML systems for logistics, including return-risk and address-verification models achieving 98% F1 and 87% precision, helping reduce shipment returns by 5% and out-of-delivery-area cases by 40%.
+
+What I work with
+
+Languages & ML: Python · C++ · Java · SQL · PyTorch · JAX
+AI: RAG · LLM Evaluation · Fine-tuning · Multi-Agent Systems · Personalized LLM Systems
+Systems: FastAPI · GCP · AWS · Data Pipelines · Distributed Systems
+
+I’ve also built production prediction APIs and published research on LLM-powered fact checking in IEEE Access.
+
+What I’m interested in
+
+I’m particularly interested in Software Engineering, Data Science, and AI/ML Research Engineering roles where I can combine strong engineering fundamentals with machine learning to build systems that are technically challenging, measurable, and useful in the real world.
+
+Always happy to connect with people working on interesting problems across software, data, and AI.
 
 ###
 
