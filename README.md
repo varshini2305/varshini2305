@@ -1,5 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Varshini and I'm a Data Scientist and Applied AI Engineer </h2>
-<h2 align="left">Hi 👋! I'm Varshini — a Data Scientist and Applied AI Engineer</h2>
+<h2 align="left">Hi 👋! I'm Varshini, A Data Scientist and Applied AI Engineer</h2>
 <h4>Recent MS in Computer Science graduate from UMass Amherst. Currently building <a href="https://okcoo.app">Coo</a>, the context manager to run your house operations.</h4>
 
 What I’ve worked on
