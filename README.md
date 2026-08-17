@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Varshini and I'm a Data Scientist and Applied AI Engineer, recently graduated from UMass Amherst with my Masters in Computer Science. I'm actively building Coo: okcoo.app, the context manager to run your house operations. </h2>
 
 ###
 
